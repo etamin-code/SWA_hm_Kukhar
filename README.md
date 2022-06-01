@@ -1,4 +1,8 @@
 # SWA_hm_Kukhar
+
+you can run nodes manually or using run_nodes.sh:
+bash run_nodes.sh
+
 ## task 3
 
 After map initializing
