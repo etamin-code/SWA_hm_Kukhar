@@ -1,7 +1,7 @@
 import hazelcast
 import time
 
-client = hazelcast.HazelcastClient(cluster_name="my_cluster")
+client = hazelcast.HazelcastClient(cluster_name="dev")
   
 print("Starting")
 
